@@ -1,0 +1,8 @@
+.git
+.vscode
+*.exe
+*.log
+tmp
+bin
+vendor
+node_modules
